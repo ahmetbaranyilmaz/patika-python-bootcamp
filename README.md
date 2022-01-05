@@ -1,2 +1,2 @@
-# kodluyourz-python-bootcamp
+# patika-python-bootcamp
 Bootcamp Homeworks
